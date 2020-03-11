@@ -1,0 +1,544 @@
+{
+  "habits": [
+    {
+      "longDescription": "Make sure you eat a healthy breakfast. It sets you up with essential nutrients for the day ahead and makes you less likely to choose unhealthy snacks throughout the day. Go for low-sugar wholegrain cereals, fruit, nuts, or the occasional sausage, egg and toast.",
+      "description": "Make sure you eat a healthy breakfast. It sets you up with essential nutrients for the day ahead and makes you less likely to choose unhealthy snacks throughout the day. Go for low-sugar wholegrain cereals, fruit, nuts, or the occasional sausage, egg and toast.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/8474954b-3ce3-5314-9085-1e58cd2708b1.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/8474954b-3ce3-5314-9085-1e58cd2708b1.svg"
+        },
+        "mediaLinks": [
+          {
+            "provider": "tictrac:harvardhealth",
+            "url": "https://wellness.tictrac.com/content/7026"
+          }
+        ]
+      },
+      "id": "12",
+      "position": 1,
+      "title": "Eat a healthy breakfast every day",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Eat a healthy breakfast every day",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Keep hydrated by consuming six to eight glasses of cups’ worth of drinks each day. Water may be the best choice, as it’s free, healthy, quenches your thirst and contains no calories or damaging sugars. If plain water isn’t your thing, add a slice of lemon or lime or some sugar-free squash for flavour.",
+      "description": "Keep hydrated by consuming six to eight glasses of cups’ worth of drinks each day. Water may be the best choice, as it’s free, healthy, quenches your thirst and contains no calories or damaging sugars. If plain water isn’t your thing, add a slice of lemon or lime or some sugar-free squash for flavour.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/77262b61-20e6-5c68-8aa2-e4b1082c648d.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/77262b61-20e6-5c68-8aa2-e4b1082c648d.svg"
+        },
+        "mediaLinks": [
+          {
+            "provider": "tictrac:harvardhealth",
+            "url": "https://wellness.tictrac.com/content/7074"
+          }
+        ]
+      },
+      "id": "16",
+      "position": 2,
+      "title": "Replace soda and juices by water or tea",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Replace soda and juices by water or tea",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Cycle, swim, climb the stairs – even go for a walk. Find a form of exercise you enjoy and that works for you. Exercise can support you in managing stress and help you sleep better, as well as boosting your energy levels. So find time to slot in some activity and get going!",
+      "description": "Cycle, swim, climb the stairs – even go for a walk. Find a form of exercise you enjoy and that works for you. Exercise can support you in managing stress and help you sleep better, as well as boosting your energy levels. So find time to slot in some activity and get going!",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/4f57702c-76a8-5fee-81ac-df7e786f131d.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/4f57702c-76a8-5fee-81ac-df7e786f131d.svg"
+        },
+        "mediaLinks": [
+          {
+            "provider": "tictrac:harvardhealth",
+            "url": "https://wellness.tictrac.com/content/7067"
+          }
+        ]
+      },
+      "id": "21",
+      "position": 3,
+      "title": "Get plenty of exercise",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Get plenty of exercise",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Your core muscles – those around your abdomen, lower back, hips and pelvis – form the foundation of good posture. A strong core supports the back and spine, leading to better balance and stability. Pilates and yoga can be good ways of building up core strength.",
+      "description": "Your core muscles – those around your abdomen, lower back, hips and pelvis – form the foundation of good posture. A strong core supports the back and spine, leading to better balance and stability. Pilates and yoga can be good ways of building up core strength.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/75e0b8f1-54f1-5fc6-92b7-a4d2fc28bb0d.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/75e0b8f1-54f1-5fc6-92b7-a4d2fc28bb0d.svg"
+        },
+        "mediaLinks": []
+      },
+      "id": "24",
+      "position": 4,
+      "title": "Try pilates or yoga",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Try pilates or yoga",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Omega-3 fatty acids may provide benefits for heart health. Try oily fish – such as salmon, mackerel and sardines – or nuts, seeds, and vegetable oils.",
+      "description": "Omega-3 fatty acids may provide benefits for heart health. Try oily fish – such as salmon, mackerel and sardines – or nuts, seeds, and vegetable oils.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/f5b391a1-ea9a-5a0a-874f-d933e66b0bd8.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/f5b391a1-ea9a-5a0a-874f-d933e66b0bd8.svg"
+        },
+        "mediaLinks": []
+      },
+      "id": "26",
+      "position": 5,
+      "title": "Get your omega-3s",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Get your omega-3s",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Use an app or a simple journal to keep track of the calories you consume. There is a number of applications that will do most of the work for you using food databases. This powerful habit is a great way to lose weight, monitor your progress and know more about what's in the food that you're eating.",
+      "description": "Use an app or a simple journal to keep track of the calories you consume. There is a number of applications that will do most of the work for you using food databases. This powerful habit is a great way to lose weight, monitor your progress and know more about what's in the food that you're eating.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/8a2a2a05-44e7-5000-8ccd-39e507027168.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/8a2a2a05-44e7-5000-8ccd-39e507027168.svg"
+        },
+        "mediaLinks": []
+      },
+      "id": "13",
+      "position": 6,
+      "title": "Track the calories you consume",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Track the calories you consume",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "On average, 60-75% of the adult human body is water. It is a component of almost every body part, from our brain (~75%), to our muscles (~80%) and even our bones (~30%). Water’s vital functions include dissolving and carrying nutrients and oxygen to our cells. Water regulates our temperature. It keeps our tissues—like those in our nose and eyes—moist, and our joints lubricated. It protects our organs and ensures their proper operation. Water flushes out waste products. It’s a list that goes on… simply put, our body depends on sufficient water to stay healthy. \r\n\r\nWater is the best beverage to quench your thirst, and  besides drinking more water, you can also consume foods that naturally contain water, such as soup, yogurt, broccoli, carrots, and juicy fruits, like watermelons, oranges, and grapefruits.",
+      "description": "On average, 60-75% of the adult human body is water. It is a component of almost every body part, from our brain (~75%), to our muscles (~80%) and even our bones (~30%). Water’s vital functions include dissolving and carrying nutrients and oxygen to our cells. Water regulates our temperature. It keeps our tissues—like those in our nose and eyes—moist, and our joints lubricated. It protects our organs and ensures their proper operation. Water flushes out waste products. It’s a list that goes on… simply put, our body depends on sufficient water to stay healthy. \r\n\r\nWater is the best beverage to quench your thirst, and  besides drinking more water, you can also consume foods that naturally contain water, such as soup, yogurt, broccoli, carrots, and juicy fruits, like watermelons, oranges, and grapefruits.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/a6c94c7a-2c5a-5873-9d86-517e065d3850.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/a6c94c7a-2c5a-5873-9d86-517e065d3850.svg"
+        },
+        "mediaLinks": [
+          {
+            "provider": "tictrac:harvardhealth",
+            "url": "https://wellness.tictrac.com/content/7074"
+          }
+        ]
+      },
+      "id": "14",
+      "position": 7,
+      "title": "Have a glass of water with every meal",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Have a glass of water with every meal",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Why not try having a week with no caffeine, alcohol or sugar-packed soft drinks? Consumed in excess, they are each associated with health problems, so it will do your body good to go without for a while. Choose water or herbal tea instead.",
+      "description": "Why not try having a week with no caffeine, alcohol or sugar-packed soft drinks? Consumed in excess, they are each associated with health problems, so it will do your body good to go without for a while. Choose water or herbal tea instead.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/1401ffa4-529f-5c85-b47a-c491a436e8c6.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/1401ffa4-529f-5c85-b47a-c491a436e8c6.svg"
+        },
+        "mediaLinks": []
+      },
+      "id": "17",
+      "position": 8,
+      "title": "Have a caffeine, alcohol and sugary drinks detox",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Have a caffeine, alcohol and sugary drinks detox",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Take a few minutes before you go to bed to stretch or do some relaxation exercises. This will help you release tension and relax your body and mind ready for sleep.",
+      "description": "Take a few minutes before you go to bed to stretch or do some relaxation exercises. This will help you release tension and relax your body and mind ready for sleep.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/4d8173d4-3a03-5745-93ff-cfb747779430.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/4d8173d4-3a03-5745-93ff-cfb747779430.svg"
+        },
+        "mediaLinks": []
+      },
+      "id": "18",
+      "position": 9,
+      "title": "Stretch before going to bed",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Stretch before going to bed",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Exercising before a meal, and this is especially true before breakfast, will help you lose weight. The reason behind this process called \"fat oxydation\" is very simple: your body will need energy during the workout and use the fat stored in your body to create some.",
+      "description": "Exercising before a meal, and this is especially true before breakfast, will help you lose weight. The reason behind this process called \"fat oxydation\" is very simple: your body will need energy during the workout and use the fat stored in your body to create some.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/8a2a2a05-44e7-5000-8ccd-39e507027168.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/8a2a2a05-44e7-5000-8ccd-39e507027168.svg"
+        },
+        "mediaLinks": []
+      },
+      "id": "19",
+      "position": 10,
+      "title": "Exercise before breakfast",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Exercise before breakfast",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Work up to 150 min of physical activity a week. Running, cycling, or swimming are all obvious options, think also about just playing a little bit longer with your kids or pets, it will make them happier and you healthier.\r\nAim to exercise minimally in bouts of 10 minutes, Perform aerobic activity for at least 10 min per session.",
+      "description": "Work up to 150 min of physical activity a week. Running, cycling, or swimming are all obvious options, think also about just playing a little bit longer with your kids or pets, it will make them happier and you healthier.\r\nAim to exercise minimally in bouts of 10 minutes, Perform aerobic activity for at least 10 min per session.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/4f57702c-76a8-5fee-81ac-df7e786f131d.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/4f57702c-76a8-5fee-81ac-df7e786f131d.svg"
+        },
+        "mediaLinks": []
+      },
+      "id": "7",
+      "position": 11,
+      "title": "Exercise for 10 mins",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Exercise for 10 mins",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Make exercising every week a priority. Aim for 150 minutes of moderate-intensity activity over the week, in bursts of at least 10 minutes at a time. Running, cycling and swimming are all great options. You could even spend a little longer playing with your kids or pets. It will make them happier and you healthier!",
+      "description": "Make exercising every week a priority. Aim for 150 minutes of moderate-intensity activity over the week, in bursts of at least 10 minutes at a time. Running, cycling and swimming are all great options. You could even spend a little longer playing with your kids or pets. It will make them happier and you healthier!",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/4f57702c-76a8-5fee-81ac-df7e786f131d.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/4f57702c-76a8-5fee-81ac-df7e786f131d.svg"
+        },
+        "mediaLinks": []
+      },
+      "id": "20",
+      "position": 12,
+      "title": "Exercise for 20 mins",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Exercise for 20 mins",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "There are several programmes and apps for high-intensity interval training (HIIT). Find one that focuses on the part of your body you want to build up and use it three times a week.",
+      "description": "There are several programmes and apps for high-intensity interval training (HIIT). Find one that focuses on the part of your body you want to build up and use it three times a week.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/4f57702c-76a8-5fee-81ac-df7e786f131d.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/4f57702c-76a8-5fee-81ac-df7e786f131d.svg"
+        },
+        "mediaLinks": []
+      },
+      "id": "8",
+      "position": 13,
+      "title": "Do 20 mins of intense cardio",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Do 20 mins of intense cardio",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Take a major step towards your new active lifestyle: join a gym and attend a fitness class. The activity needs to challenge your heart rate, spinning or body pump classes are very good for that.\r\n\r\nIt will be pretty hard, but it's worth it! Aim at five fitness classes in two weeks.",
+      "description": "Take a major step towards your new active lifestyle: join a gym and attend a fitness class. The activity needs to challenge your heart rate, spinning or body pump classes are very good for that.\r\n\r\nIt will be pretty hard, but it's worth it! Aim at five fitness classes in two weeks.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/8a2a2a05-44e7-5000-8ccd-39e507027168.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/8a2a2a05-44e7-5000-8ccd-39e507027168.svg"
+        },
+        "mediaLinks": []
+      },
+      "id": "22",
+      "position": 14,
+      "title": "Attend a fitness class",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Attend a fitness class",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "A high-intensity interval training (HIIT) workout is aimed at making you work harder in a short period of time. Some studies have suggested HIIT workouts can provide the same health benefits as exercising for longer. Everyone should aim for 150 minutes of moderate-intensity exercise or 75 minutes of high-intensity exercise a week, in bursts of 10 minutes or more.",
+      "description": "A high-intensity interval training (HIIT) workout is aimed at making you work harder in a short period of time. Some studies have suggested HIIT workouts can provide the same health benefits as exercising for longer. Everyone should aim for 150 minutes of moderate-intensity exercise or 75 minutes of high-intensity exercise a week, in bursts of 10 minutes or more.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/dc4f0953-42c8-5ff7-b78c-dac545f2797d.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/dc4f0953-42c8-5ff7-b78c-dac545f2797d.svg"
+        },
+        "mediaLinks": []
+      },
+      "id": "23",
+      "position": 15,
+      "title": "Get a good workout",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Get a good workout",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Instead of having three meals a day, try to have six smaller meals. The benefits of this routine are incredible: your metabolism will increase, you will release less insulin and your digestion will be facilitated. And last but not least, you will always feel satisfied.",
+      "description": "Instead of having three meals a day, try to have six smaller meals. The benefits of this routine are incredible: your metabolism will increase, you will release less insulin and your digestion will be facilitated. And last but not least, you will always feel satisfied.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/8a2a2a05-44e7-5000-8ccd-39e507027168.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/8a2a2a05-44e7-5000-8ccd-39e507027168.svg"
+        },
+        "mediaLinks": []
+      },
+      "id": "25",
+      "position": 16,
+      "title": "Eat five or six small meals a day instead of three",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Eat five or six small meals a day instead of three",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Shopping on an empty stomach is a bad idea. Studies have shown that people are more likely to make more calorific choices if they food-shop while they’re hungry.",
+      "description": "Shopping on an empty stomach is a bad idea. Studies have shown that people are more likely to make more calorific choices if they food-shop while they’re hungry.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/038d5b22-0656-5a90-a3ad-f7c07fa55971.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/038d5b22-0656-5a90-a3ad-f7c07fa55971.svg"
+        },
+        "mediaLinks": [
+          {
+            "provider": "tictrac:harvardhealth",
+            "url": "https://wellness.tictrac.com/content/7081"
+          }
+        ]
+      },
+      "id": "27",
+      "position": 17,
+      "title": "Eat before you go food shopping",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Eat before you go food shopping",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Try to eat at least five portions of fruit and veg a day to get the health benefits from the nutrition they provide. Different colored fruits and vegetables contain different combinations of vitamins and minerals, so mix it up with a variety of colors!",
+      "description": "Try to eat at least five portions of fruit and veg a day to get the health benefits from the nutrition they provide. Different colored fruits and vegetables contain different combinations of vitamins and minerals, so mix it up with a variety of colors!",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/5908e7ee-e48d-5275-97e7-049038532bba.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/5908e7ee-e48d-5275-97e7-049038532bba.svg"
+        },
+        "mediaLinks": [
+          {
+            "provider": "tictrac:harvardhealth",
+            "url": "https://wellness.tictrac.com/content/7018"
+          }
+        ]
+      },
+      "id": "9",
+      "position": 18,
+      "title": "Get a rainbow of fruit and veg",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Get a rainbow of fruit and veg",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Low blood sugar levels – known as hypoglycaemia – can trigger migraines in some people. Keeping your blood sugar levels under control could help, so make sure you eat regularly.",
+      "description": "Low blood sugar levels – known as hypoglycaemia – can trigger migraines in some people. Keeping your blood sugar levels under control could help, so make sure you eat regularly.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/6ef1b2a5-7fd8-5ed0-a767-fb01031ad6df.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/6ef1b2a5-7fd8-5ed0-a767-fb01031ad6df.svg"
+        },
+        "mediaLinks": [
+          {
+            "provider": "tictrac:harvardhealth",
+            "url": "https://wellness.tictrac.com/content/7898"
+          }
+        ]
+      },
+      "id": "10",
+      "position": 19,
+      "title": "Have a sugar-free day",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Have a sugar-free day",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Stand in an open doorway, facing forward with your feet shoulder-width apart. Reach to the sides of the doorframe and hold on to it with your fingers, then push your chest forward until you feel a stretch in your torso and back. Hold the position for 30 seconds, then return to the starting position.",
+      "description": "Stand in an open doorway, facing forward with your feet shoulder-width apart. Reach to the sides of the doorframe and hold on to it with your fingers, then push your chest forward until you feel a stretch in your torso and back. Hold the position for 30 seconds, then return to the starting position.",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/75e0b8f1-54f1-5fc6-92b7-a4d2fc28bb0d.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/75e0b8f1-54f1-5fc6-92b7-a4d2fc28bb0d.svg"
+        },
+        "mediaLinks": []
+      },
+      "id": "40",
+      "position": 20,
+      "title": "Stretch your chest",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Stretch your chest",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    },
+    {
+      "longDescription": "Lie on your stomach, and prop yourself on your elbows, lengthening your spine. Keep your shoulders back and neck long. Arch your back up by pushing down on your hands. You should feel a gentle stretch in the stomach muscles as you arch backwards. Don't bend your neck backwards. Keep your hips grounded.\r\nBreathe and hold for five to 10 seconds. Return to the starting position. Repeat eight to 10 times",
+      "description": "Lie on your stomach, and prop yourself on your elbows, lengthening your spine. Keep your shoulders back and neck long. Arch your back up by pushing down on your hands. You should feel a gentle stretch in the stomach muscles as you arch backwards. Don't bend your neck backwards. Keep your hips grounded.\r\nBreathe and hold for five to 10 seconds. Return to the starting position. Repeat eight to 10 times",
+      "milestoneCount": 5,
+      "attributes": {
+        "badge": {
+          "600x600": "https://cdn-content-dev.tictrac.com/thumbnail/_/600/600/crop/good/6ea9391e-2373-5859-a6ac-9e23207014b7.svg",
+          "200x200": "https://cdn-content-dev.tictrac.com/thumbnail/_/200/200/crop/good/6ea9391e-2373-5859-a6ac-9e23207014b7.svg"
+        },
+        "mediaLinks": []
+      },
+      "id": "41",
+      "position": 21,
+      "title": "Give back extensions a try",
+      "icons": {
+        "badge_200*200": {},
+        "bm-my": {
+          "name": "Give back extensions a try",
+          "language": "bm-my"
+        },
+        "badge_600*600": {}
+      },
+      "frequency": "DAILY"
+    }
+  ],
+  "type_": "AllHabitPlans"
+}
